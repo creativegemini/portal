@@ -6,5 +6,5 @@
     "resolveJsonModule": true,
     "downlevelIteration": true
   },
-  "exclude": ["build", "submodules"]
+  "exclude": ["build", "submodules", "crypto-dashboard"]
 }
